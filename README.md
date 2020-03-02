@@ -1,6 +1,7 @@
 ## Smart Services summer project: Algae Growth Monitoring
 The main purpose of this project is to help researchers keep track of natural conditions in the pool for 
-algae cultivation.
+algae cultivation. <a href = "https://drive.google.com/drive/folders/1bppjlDbuVf4fW6H-tO0A0tElHzh9IT3S"> This link</a> leads to the archive of the project.
+
 What I have created: 
 - Create an IoT system for monitoring algae growth factor( light, temperature, pH) 24/7, publishing these data to cloud using MQTT protocol. 
 - Create a local website for calibrating pH probe with instruction and good UI
@@ -8,6 +9,7 @@ What I have created:
 The system circuit:
 
 <img src = "https://user-images.githubusercontent.com/32799668/75661459-064fa280-5c76-11ea-93fa-31cb0b0f8174.png" width = "300">
+
 
 ### More details: 
 #### 1) Data monitoring using Grafana:
