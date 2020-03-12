@@ -64,7 +64,9 @@ Data visualization from Grafana:
 
 
 ## Calibrating with NodeJs 
+
 Project work flow:
+
 <img src="https://user-images.githubusercontent.com/32799668/76545581-b1d8ce00-6492-11ea-9797-1aae42aa3a52.png" width="700">
 
 UI for calibration: 
