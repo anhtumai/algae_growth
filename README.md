@@ -58,7 +58,7 @@ Python scripts are used to gather information from sensors via GPIO pins and cal
 
 Project data flow:
 
-<img src="https://user-images.githubusercontent.com/32799668/76547696-485abe80-6496-11ea-9784-77057ef7f8a1.png" width="300">
+<img src="https://user-images.githubusercontent.com/32799668/76547696-485abe80-6496-11ea-9784-77057ef7f8a1.png" width="700">
 
 Data visualization from Grafana:
 
