@@ -67,9 +67,12 @@ Data visualization from Grafana:
 
 Project work flow:
 
-<img src="https://user-images.githubusercontent.com/32799668/76545581-b1d8ce00-6492-11ea-9797-1aae42aa3a52.png" width="700">
+<img src="https://user-images.githubusercontent.com/32799668/76545581-b1d8ce00-6492-11ea-9797-1aae42aa3a52.png" width="600">
+
 
 UI for calibration: 
+
+
 <img src = "https://user-images.githubusercontent.com/32799668/75660722-c1773c00-5c74-11ea-8f17-6f67436847ad.png" width = "500" >
 
 
