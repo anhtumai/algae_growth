@@ -3,8 +3,8 @@
 
 ## Table of Contents
 1. [Summary](#Summary) 
-2. [Data monitoring](#Data_monitoring_with_Grafana)
-3. [Calibrating](#Calibrating_with_NodeJs)
+2. [Data monitoring](#Data-monitoring-with-Grafana)
+3. [Calibrating](#Calibrating-with-NodeJs)
 4. [Installation](#Installation)
 
 
@@ -56,6 +56,10 @@ Project structure:
 
 Python scripts are used to gather information from sensors via GPIO pins and calibrate sensors as well. A multithreaded program is created for this purpose.
 
+Project data flow:
+
+<img src="https://user-images.githubusercontent.com/32799668/76547696-485abe80-6496-11ea-9784-77057ef7f8a1.png" width="300">
+
 Data visualization from Grafana:
 
 <img src="https://user-images.githubusercontent.com/32799668/75659668-0e5a1300-5c73-11ea-803f-8d923514984d.png" width="300">
@@ -74,6 +78,9 @@ UI for calibration:
 
 
 <img src = "https://user-images.githubusercontent.com/32799668/75660722-c1773c00-5c74-11ea-8f17-6f67436847ad.png" width = "500" >
+
+<img src = "https://user-images.githubusercontent.com/32799668/76548370-4c3b1080-6497-11ea-8411-174cd33a40e3.png" width ="500" >
+<img src = "https://user-images.githubusercontent.com/32799668/76548217-10a04680-6497-11ea-9cd3-f1392dcc31a5.png" width="500">
 
 
 ## Installation
