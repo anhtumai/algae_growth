@@ -86,7 +86,7 @@ UI for calibration:
 ## Installation
 
 ``` 
-$> git clone sudo git clone https://github.com/anhtumai/algae_growth.git
+$> sudo git clone https://github.com/anhtumai/algae_growth.git
 $> sudo pip3 install numpy, paho-mqtt, socketIO_client_nexus
 $> sudo python3 main.py
 $> cd Server 
